@@ -38,7 +38,8 @@ This project is an interactive 2D scene built using **Three.js**, **vanilla Java
 ## **Directory Structure**
 The project directory contains the following files:
 
-![image](https://github.com/user-attachments/assets/96801620-6e33-48c4-9034-377fa46e60fa)
+![Screenshot 2025-02-07 180951](https://github.com/user-attachments/assets/93004985-df5e-4b65-899d-332cc4cb9d53)
+
 
 ---
 
@@ -95,7 +96,8 @@ Download or clone the project files from the repository.
 ---
 
 ## **Screenshots**
-![image](https://github.com/user-attachments/assets/61184a30-ba9c-45e3-aeac-69e30cc83daa)
+![Screenshot 2025-02-07 180809](https://github.com/user-attachments/assets/2d2a28b5-6de9-45e6-8750-0a23aea4c786)
+
 
 ---
 
