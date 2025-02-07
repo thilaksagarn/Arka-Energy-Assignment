@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Three.js Assignment</title>
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+    }
+    #ui {
+      position: absolute;
+      bottom: 10px;
+      left: 10px;
+      z-index: 10;
+    }
+    button {
+      margin: 5px;
+      padding: 10px;
+      font-size: 16px;
+      border: none;
+      border-radius: 5px;
+      background-color: #4CAF50;
+      color: white;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    button:hover {
+      background-color: #45a049;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+    button:active {
+      background-color: #3e8e41;
+      transform: scale(0.98);
+    }
+  </style>
+</head>
+<body>
+  <div id="ui">
+    <button id="completeBtn">Complete</button>
+    <button id="copyBtn">Copy</button>
+    <button id="resetBtn">Reset</button>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>
